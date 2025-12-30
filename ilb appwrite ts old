@@ -126,3 +126,5 @@ export const getCategories = async () => {
         throw new Error(e as string);
     }
 }
+
+
